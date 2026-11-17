@@ -1,0 +1,28 @@
+{
+  "name": "copilot-cli-practice",
+  "version": "1.0.0",
+  "description": "A simple file-backed Task Manager REST API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiyuruWijesinghe/copilot-cli-practice.git"
+  },
+  "keywords": [
+    "task-manager",
+    "rest-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/MiyuruWijesinghe/copilot-cli-practice/issues"
+  },
+  "homepage": "https://github.com/MiyuruWijesinghe/copilot-cli-practice#readme"
+}
